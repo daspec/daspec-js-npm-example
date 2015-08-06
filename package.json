@@ -1,0 +1,13 @@
+{
+  "name": "daspec-js-npm-example",
+  "version": "0.0.1",
+  "description": "Example project for running specs using daspec and Node.js",
+  "license": "MIT",
+  "homepage": "http://daspec.com",
+  "scripts": {
+    "test": "daspec --config custom-daspec.json"
+  },
+  "devDependencies": {
+    "daspec": "0.0.1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"specs": ["specs/*.md"],
+	"steps": ["steps/**/*.js"],
+	"sources": ["src/**/*.js"],
+	"output-dir": "daspec-output"
+}
