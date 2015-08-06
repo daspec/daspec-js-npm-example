@@ -1,4 +1,4 @@
-Example DaSpec JS setup running inside Node for testing javascript projects.
+Example [DaSpec JS](http://daspec.com) setup running inside Node for testing javascript projects.
 
 Check out the git repository, then do 
 
@@ -6,7 +6,7 @@ Check out the git repository, then do
 
 to pull the dependencies. You should be able to run
 
-   npm test
+    npm test
 
 and DaSpec will execute the spec files from the [specs](specs) folder, saving them into __daspec-output__.
 
