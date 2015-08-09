@@ -8,6 +8,6 @@
     "test": "daspec --config custom-daspec.json"
   },
   "devDependencies": {
-    "daspec": "0.0.1"
+    "daspec": "^0.0.2"
   }
 }
