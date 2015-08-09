@@ -9,8 +9,6 @@
   "bugs": {
     "url": "https://github.com/daspec/daspec-js-npm-example/issues"
   },
-  "homepage": "https://github.com/daspec/daspec-js-npm-example"
-  "repository": "https://github.com/daspec/daspec-js-npm-example",
   "license": "MIT",
   "homepage": "http://daspec.com",
   "scripts": {
