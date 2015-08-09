@@ -2,6 +2,15 @@
   "name": "daspec-js-npm-example",
   "version": "0.0.1",
   "description": "Example project for running specs using daspec and Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daspec/daspec-js-npm-example"
+  },
+  "bugs": {
+    "url": "https://github.com/daspec/daspec-js-npm-example/issues"
+  },
+  "homepage": "https://github.com/daspec/daspec-js-npm-example"
+  "repository": "https://github.com/daspec/daspec-js-npm-example",
   "license": "MIT",
   "homepage": "http://daspec.com",
   "scripts": {
