@@ -2,5 +2,6 @@
 	"specs": ["specs/*.md"],
 	"steps": ["steps/**/*.js"],
 	"sources": ["src/**/*.js"],
-	"output-dir": "daspec-output"
+	"output-dir": "daspec-output",
+	"formatters":["daspec-color-console", "daspec/formatters/markdown-files"]
 }
