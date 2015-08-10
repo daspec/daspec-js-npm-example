@@ -15,7 +15,7 @@
     "test": "daspec --config custom-daspec.json"
   },
   "devDependencies": {
-    "daspec": "^0.0.4",
-    "daspec-color-console": "0.0.2"
+    "daspec": "^0.0.5",
+    "daspec-color-console": "^0.0.3"
   }
 }
