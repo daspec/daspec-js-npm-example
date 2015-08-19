@@ -3,5 +3,5 @@
 	"steps": ["steps/**/*.js"],
 	"sources": ["src/**/*.js"],
 	"output-dir": "daspec-output",
-	"formatters":["daspec-color-console", "daspec/formatters/markdown-files"]
+	"formatters":["daspec/formatters/console", "daspec/formatters/markdown-files", "daspec-junit-xml-formatter"]
 }
