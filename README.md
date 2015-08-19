@@ -1,5 +1,8 @@
 Example [DaSpec JS](http://daspec.com) setup running inside Node for testing javascript projects.
 
+
+[![Build Status](https://travis-ci.org/daspec/daspec-js-npm-example.svg?branch=master)](https://travis-ci.org/daspec/daspec-js-npm-example)
+
 Check out the git repository, then do 
 
     npm install
