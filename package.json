@@ -1,6 +1,6 @@
 {
   "name": "daspec-js-npm-example",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Example project for running specs using daspec and Node.js",
   "repository": {
     "type": "git",
