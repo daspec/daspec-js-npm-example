@@ -15,9 +15,8 @@
     "test": "daspec --config custom-daspec.json"
   },
   "devDependencies": {
-    "daspec": ">=1.0.0"
-  },
-  "dependencies": {
-    "daspec-junit-xml-formatter": ">=1.0.0"
+    "daspec": ">=1.0.1"
+    "daspec-junit-xml-formatter": ">=1.0.0",
+	"daspec-quantity-matchers": ">=1.0.0"
   }
 }
